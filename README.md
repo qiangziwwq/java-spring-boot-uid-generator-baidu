@@ -28,8 +28,6 @@ uid-provider 中的 ConsumerApplication
 浏览器
 ```html
 http://localhost:8080/uidGenerator
-```
-
 # 文档说明
 
 https://blog.csdn.net/fenglailea/article/details/90200602
@@ -37,6 +35,8 @@ https://blog.csdn.net/fenglailea/article/details/90200602
 
 # 部分升级说明
 >这里的升级，是升级 官方 代码依赖
+```
+
 
 官方代码地址：[https://github.com/baidu/uid-generator](https://github.com/baidu/uid-generator)
 

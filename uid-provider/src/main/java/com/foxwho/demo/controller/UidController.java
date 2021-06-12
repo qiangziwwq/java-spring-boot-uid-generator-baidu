@@ -11,7 +11,8 @@ public class UidController {
     private UidGenService uidGenService;
 
     @GetMapping("/uidGenerator")
-    public String UidGenerator() {
+    public String UidGenerator()
+    {
         return String.valueOf(uidGenService.getUid());
     }
 
